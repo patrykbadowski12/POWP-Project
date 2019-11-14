@@ -8,6 +8,7 @@ W ramach projektu mogą byc realizowane takie wzorce jak:
 * Abstract factory (Fabryka abstrakcyjna)
 * Factory method (Metoda wytwórcza)
 * Builder (Budowniczy)
+* Dependency injection
 
 * Facade (Fasada)
 * Proxy (Pełnomocnik)
