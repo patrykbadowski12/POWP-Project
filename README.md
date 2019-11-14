@@ -22,6 +22,7 @@ Mogą być też relizowane wzorce:
 * MVC
 * Publish–subscribe pattern
 * Circuit breaker
+* CQRS
 
 Projekt jest realizowany w dowolnym języku obiektowym znanym przez studenta, ale zalecany jest C# jako opcja do poznania rożnic między Java z pierwszej części zajęć, a tym językiem. 
 
