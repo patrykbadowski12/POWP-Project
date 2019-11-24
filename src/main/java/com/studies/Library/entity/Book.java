@@ -12,4 +12,5 @@ public class Book {
     private String author;
     private int pages;
     private String print;
+    private boolean rented;
 }
